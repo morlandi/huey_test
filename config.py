@@ -1,4 +1,3 @@
 from huey import RedisHuey
 
-huey = RedisHuey(result_store=True)
-
+huey = RedisHuey(name="huey_test", result_store=True)  # , host='your.redis.host'
