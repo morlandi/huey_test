@@ -39,3 +39,9 @@ Execute async tasks
         Enqueued job to count 2000 beans
         waiting task completion ...
         Counted 2000 beans
+
+References
+----------
+
+- `huey, a little task queue <https://huey.readthedocs.io/en/latest/index.html>`_
+- `Looking for an alternative to Celery? Try Huey <https://www.packtpub.com/books/content/looking-for-alternative-celery-try-huey>`_
